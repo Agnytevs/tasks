@@ -42,8 +42,9 @@ python task_one.py
 - Участник: Буслаев Денис Александрович
 - Email: denbus05@gmail.com
 
-- Участник: ...
-- Email: ... 
+- Участник: Самоделкин Михаил Олегович
+- Email: Mishasamodelkin856@gmail.com
 
 - Участник: Тараторина Софья Сергеевна
+
 - Email: sonya.taratorina@gmail.com
