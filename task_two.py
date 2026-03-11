@@ -63,5 +63,7 @@ def main() -> None:
     print(result)
 
 
+# запуск программы
 if __name__ == "__main__":
     main()
+
