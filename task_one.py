@@ -14,9 +14,14 @@ def print_fibonacci(numbers:int) -> None:
         print(fib_num)
         # меняем переменные для следующего числа
         number_one, number_two = number_two, fib_num
+
+
 def main() -> None:
     """Основная функция программы."""
     print_fibonacci(100)
+
+# Запуск программы
 if __name__ == "__main__":
     main()
+
 
